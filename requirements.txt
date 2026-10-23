@@ -1,0 +1,6 @@
+# php2shell Exploitation Tool Requirements
+# Python 3.7+
+
+# Core dependencies (all standard library except requests)
+requests>=2.25.0
+colorama>=0.4.4
